@@ -1,1 +1,1 @@
-该仓库为测试内容，请移步https://github.com/Meroser/IPTV
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZqinKing/EPG-test/test/IPTV.m3u
